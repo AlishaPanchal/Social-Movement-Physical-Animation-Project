@@ -44,5 +44,6 @@ ul{
   font-family: verdana;
 }
 div {
-  float: left;
+  float: none;
+  width: 300px;
 }

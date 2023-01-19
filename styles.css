@@ -44,6 +44,9 @@ ul{
   font-family: verdana;
 }
 div {
-  float: none;
+  text-align: center;
   width: 300px;
+}
+.row {
+  width: 100%;
 }

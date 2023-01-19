@@ -26,6 +26,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 iframe {
   display: block;
@@ -37,16 +38,6 @@ p {
   margin: auto;
   font-family: verdana;
 }
-img {
-  text-align: center;
-}
 ul{
   font-family: verdana;
-}
-div {
-  text-align: center;
-  width: 300px;
-}
-.row {
-  width: 100%;
 }

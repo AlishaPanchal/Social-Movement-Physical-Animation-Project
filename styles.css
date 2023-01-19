@@ -41,6 +41,8 @@ p {
 ul{
   font-family: verdana;
 }
-video {
-  text-align: center;
+video.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

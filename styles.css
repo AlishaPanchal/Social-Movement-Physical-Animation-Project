@@ -43,13 +43,6 @@ img {
 ul{
   font-family: verdana;
 }
-.column {
+div {
   float: left;
-  width: 25%;
-  padding: 5px;
-}
-.row {
-  float: left;
-  width: 25%;
-  padding: 5px;
 }
